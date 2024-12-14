@@ -1,0 +1,3 @@
+## NextJs template (I will be adding more content for structural improvements)
+
+  This is my go-to starter template for building static Next.js projects with a focus on clean, intuitive, and well-organized structure. It’s designed to help developers quickly set up a solid foundation for their projects while ensuring maintainability and scalability. With a thoughtfully crafted folder and file organization, this template makes it easy to navigate and manage your codebase, whether you’re working on a personal project or collaborating with a team. If you’re looking for a streamlined starting point that combines simplicity with best practices, this template is the perfect choice.
